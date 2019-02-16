@@ -1,3 +1,9 @@
+
+body{
+    text-align: center;
+    margin: 0;
+    padding:0;
+}
 .down{
     background-image: url('../pics/12.jpg');
     background-size: cover;
@@ -64,4 +70,8 @@ h1 {
 }
 p{
     color:white;
+}
+.navbar-toggle{
+    float: none;
+    margin-right:0; 
 }
